@@ -1,2 +1,2 @@
 # Elasticsearch
-run and use Elasticsearch with Docker 
+used Python to load data into Elasticsearch running on Docker 
